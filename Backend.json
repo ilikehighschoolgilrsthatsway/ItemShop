@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
-    "price": 1500
-  },
-  "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
-    "price": 300
-  },
-  "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
+    "itemGrants": ["CID_542_Athena_Commando_F_CarbideFrostMystery"],
     "price": 1200
   },
+  "daily2": {
+    "itemGrants": ["CID_673_Athena_Commando_F_ArcticCamo_Slate"],
+    "price": 1000
+  },
+  "daily3": {
+    "itemGrants": ["Wrap_107_GraffitiRemix"],
+    "price": 300
+  },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_Fresh"],
-    "price": 3500
+    "itemGrants": ["EID_GabbyHipHop_01"],
+    "price": 600
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
+    "itemGrants": ["Pickaxe_ID_197_HoppityHeist"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
-    "price": 800
+    "itemGrants": ["Umbrella_Season_05"],
+    "price": 200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
+    "itemGrants": ["CID_349_Athena_Commando_M_Banana"],
     "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
-    "price": 2000
+    "itemGrants": ["CID_648_Athena_Commando_F_MsAlpine"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_KingEagle"],
-    "price": 0
+    "itemGrants": [" MusicPack_016_WorldCup"],
+    "price": 500
   }
 }
